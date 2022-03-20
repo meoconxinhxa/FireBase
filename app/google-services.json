@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384053667590",
+    "project_id": "practisefirebase-2d672",
+    "storage_bucket": "practisefirebase-2d672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384053667590:android:538421d3d46027c9d3a087",
+        "android_client_info": {
+          "package_name": "com.ueh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384053667590-cp2muqk1qtecdotk38drbe24pk3bgeck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCeCWDIAIELLf5XW5OlsoIipfKGegx6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384053667590-cp2muqk1qtecdotk38drbe24pk3bgeck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
